@@ -1,2 +1,2 @@
-# Assignment-1
-It is the file for day1 assignment.Python workshop
+# Assignments
+It is the folder for all assignments of .Python workshop
