@@ -1,4 +1,8 @@
-# Assignments
-It is the folder for all assignments of .Python workshop.
 
-Sorry Teacher in assignment 3 few output i couldnot get becoz my laptop got crashed. 
+Python Project Link:
+https://github.com/Smhomam/Capstone-Project-Python.git
+
+
+Project Members:-
+Shekh MehmoodHomam Tarikulislam
+Patel Sajedabanu Hasmatali
